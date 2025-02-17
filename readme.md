@@ -1,0 +1,1 @@
+This repo's DS-Res folder is synced with hari15sep@gmail
