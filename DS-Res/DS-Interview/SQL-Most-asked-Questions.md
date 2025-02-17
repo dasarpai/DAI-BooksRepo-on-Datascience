@@ -1,0 +1,42 @@
+# Frequently Asked SQL Questions.
+
+- What are the different types of SQL joins and when would you use each one?
+- What is the difference between INNER JOIN and OUTER JOIN in SQL?
+- Explain the concept of normalization in database design and why it's important.
+- What is a primary key and why is it used in a database?
+- Explain the difference between UNION and UNION ALL in SQL.
+- How do you create a new table in SQL? Provide an example.
+- What is a subquery in SQL and how can it be used in a query?
+- Explain the concept of indexing in databases and how it can improve query performance.
+- How do you retrieve the top N records from a table in SQL?
+- What are stored procedures and functions in SQL, and how do they differ?
+- Explain the difference between VARCHAR and CHAR data types in SQL.
+- How do you calculate the average, sum, minimum, and maximum values of a column in SQL?
+- What is a foreign key and how is it used in a database?
+- Explain the concept of ACID properties in the context of database transactions.
+- What is the purpose of the GROUP BY clause in SQL and how does it work?
+- How do you add, modify, and delete data in a table using SQL?
+- Explain the concept of NULL in SQL and how it's handled in queries.
+- What is a view in SQL and why would you use it?
+- How do you retrieve data from multiple tables using JOINs in SQL?
+- Explain the difference between a clustered and a non-clustered index in SQL.
+- What are triggers in SQL and how do they work?
+- How do you handle duplicate records in a table using SQL?
+- Explain the difference between a candidate key, primary key, and super key in database design.
+- What is the purpose of the HAVING clause in SQL and how does it differ from the WHERE clause?
+- Explain the concept of a self-join in SQL and when it might be used.
+- How do you perform data aggregation across multiple groups in SQL?
+- Explain the difference between a database and a schema in SQL.
+- What is the purpose of the ORDER BY clause in SQL and how does it work?
+- What are window functions? Explain with examples.
+- How do you perform string manipulation and pattern matching in SQL?
+- Explain the difference between a left outer join and a right outer join in SQL.
+- What are the different types of subqueries in SQL and how are they used?
+- How do you find and remove duplicate records from a table in SQL?
+- Explain the concept of a materialized view in SQL and how it differs from a regular view.
+- How do you perform data validation and data cleansing in SQL?
+- Explain the difference between a transaction and a savepoint in SQL.
+- What is a schema in SQL and why is it used?
+- How do you calculate the difference between two dates in SQL?
+- Explain the concept of a composite key in database design and when it might be used.
+- What is a temporary table in SQL and how is it used?
