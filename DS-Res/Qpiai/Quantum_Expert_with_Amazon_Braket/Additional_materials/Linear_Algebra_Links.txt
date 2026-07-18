@@ -1,0 +1,23 @@
+Linear Algebra
+• Matrices
+• Vectors
+• Basis and unit vectors
+• Linear combination of vectors
+• Linear Transformations
+• Change of Basis
+• Eigenvectors and Eigenvalues
+• Inner Product
+• Singular Value Decomposition
+
+
+
+References
+• Elementary Linear Algebra – Textbook by Ron Larson & David C. Falvo
+• Introduction to Linear Algebra – Textbook by Gilbert Strang
+• Linear Algebra: A Modern Introduction – Textbook by David Poole
+• Introduction to Linear Algebra – Textbook by Serge Lang
+
+• https://atozmath.com/example/MatrixEv.aspx?q=svd&q1=E1
+• https://gregorygundersen.com/blog/2018/12/10/svd/
+• https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
+• http://people.whitman.edu/~hundledr/courses/M240S16/M240/TheSVD.pdf
